@@ -1,0 +1,21 @@
+{
+  "name": "sillytavern-cloud-saves",
+  "version": "1.0.0",
+  "description": "SillyTavern的云存档插件，使用GitHub仓库管理存档。",
+  "main": "index.js",
+  "author": "Your Name / AI Assistant",
+  "license": "MIT",
+  "keywords": [
+    "sillytavern",
+    "plugin",
+    "cloud",
+    "save",
+    "git",
+    "github"
+  ],
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^3.0.0",
+    "simple-git": "^3.27.0"
+  }
+}
